@@ -1,0 +1,6 @@
+framework module Pods_ShareWhatUWhant {
+  umbrella header "Pods-ShareWhatUWhant-umbrella.h"
+
+  export *
+  module * { export * }
+}
